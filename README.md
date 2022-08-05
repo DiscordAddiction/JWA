@@ -1,2 +1,2 @@
 ## JWA - Open SRC soon
-- Windows download: https://www.mediafire.com/file/3al0v1smpf4vx02/jwa.exe/file
+- Windows download: https://github.com/DiscordAddiction/JWA/releases/tag/0.0.1
